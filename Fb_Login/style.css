@@ -1,0 +1,57 @@
+* {
+  background-color: rgb(224, 235, 250);
+}
+
+#blue,
+#green {
+  font-weight: bold;
+  color: white;
+  font-size: medium;
+  border: none;
+}
+
+#blue {
+  background-color: rgb(42, 127, 238);
+  height: 50px;
+  width: 400px;
+  border-radius: 5px;
+}
+
+#green {
+  background-color: rgb(49, 207, 49);
+  height: 50px;
+  width: 250px;
+  border-radius: 5px;
+  position: absolute;
+  right: 25%;
+}
+
+.inpu {
+  height: 40px;
+  width: 100%;
+  border-width: thin;
+  border-color: rgb(250, 248, 248);
+  font-size: small;
+  line-height: 1.5cm;
+  border-radius: 5px;
+  background-color: white;
+}
+
+#abc {
+  width: 400px;
+  height: 300px;
+  border: black;
+  line-height: 1.5cm;
+  padding: 20px;
+  background-color: white;
+  position: absolute;
+  border-radius: 10px;
+  right: 15%;
+  top: 25%;
+}
+
+a {
+  display: block;
+  text-align: center;
+  background-color: white;
+}
